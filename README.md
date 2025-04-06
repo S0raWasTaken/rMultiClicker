@@ -12,7 +12,7 @@ It should work properly in Linux, if you're either using xorg or the target app 
 
 ### About the code:
 ![](resources/maniac.png)<br>
-Honestly, I did this as quick as possible, and I kind of wanted to see how far I could go just spamming `static mut`s and doing "unsafe" operations. Maybe I'll do a performance test against a "safe" version of it at some point, but that's not really in my priority list at the moment.
+Honestly, I did this as quick as possible, and I kind of wanted to see how far I could go by just spamming `static mut`s and doing "unsafe" operations. Maybe I'll do a performance test against a "safe" version of it at some point, but that's not really in my priority list at the moment.
 
 My old self would call this code a sin against humanity, but it actually paid off, since I would've spent 3x the time I did to actually finish this first commit.
 
