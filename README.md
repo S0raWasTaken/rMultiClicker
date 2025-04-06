@@ -1,4 +1,4 @@
-# rMultiClicker
+# <img src=rmulticlicker.ico width="32"> rMultiClicker
 Quick project, just a simple all-in-one clicker, using the raylib GUI. 
 
 It has support for custom themes, that can be found [here](https://github.com/raysan5/raygui/tree/master/styles). Just pick a `.rgs` file, rename it to `style.rgs` and run your binary in the same directory as it.
